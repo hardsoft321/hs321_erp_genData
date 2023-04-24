@@ -11,13 +11,13 @@ $manifest = array(
     'author' => 'ads',
     'description' => 'Генерация ЕРП данных',
     'is_uninstallable' => true,
-    'published_date' => '2023-04-19',
+    'published_date' => '2023-04-24',
     'type' => 'module',
-    'version' => '0.0.1',
+    'version' => '0.1.0',
     'dependencies' => array(
        array(
         'id_name' => 'hs321_erp',
-        'version' => '0.8',
+        'version' => '0.9',
       ),
     ),
 );
