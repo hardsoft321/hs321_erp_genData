@@ -17,7 +17,7 @@ $manifest = array(
     'dependencies' => array(
        array(
         'id_name' => 'hs321_erp',
-        'version' => '0.7',
+        'version' => '0.8',
       ),
     ),
 );
