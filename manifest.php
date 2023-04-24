@@ -13,7 +13,7 @@ $manifest = array(
     'is_uninstallable' => true,
     'published_date' => '2023-04-24',
     'type' => 'module',
-    'version' => '0.1.0',
+    'version' => '0.1.1',
     'dependencies' => array(
        array(
         'id_name' => 'hs321_erp',
