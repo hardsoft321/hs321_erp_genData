@@ -11,9 +11,9 @@ $manifest = array(
     'author' => 'ads',
     'description' => 'Генерация ЕРП данных',
     'is_uninstallable' => true,
-    'published_date' => '2023-04-24',
+    'published_date' => '2023-04-25',
     'type' => 'module',
-    'version' => '0.1.1',
+    'version' => '0.1.2',
     'dependencies' => array(
        array(
         'id_name' => 'hs321_erp',
