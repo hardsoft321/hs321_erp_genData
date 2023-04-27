@@ -11,13 +11,13 @@ $manifest = array(
     'author' => 'ads',
     'description' => 'Генерация ЕРП данных',
     'is_uninstallable' => true,
-    'published_date' => '2023-04-25',
+    'published_date' => '2023-04-27',
     'type' => 'module',
-    'version' => '0.1.3',
+    'version' => '0.2.0',
     'dependencies' => array(
        array(
         'id_name' => 'hs321_erp',
-        'version' => '0.10',
+        'version' => '0.11',
       ),
     ),
 );
@@ -45,7 +45,7 @@ $installdefs = array(
     ),
     'administration' => array(
         array(
-           'from' => '<basepath>/SugarModules/Administration/menu/other_group_admin.php'
+           'from' => '<basepath>/SugarModules/Administration/menu/erp_genData_group_admin.php'
         )
     ),
     'copy' => array(
